@@ -3,6 +3,8 @@
 
 = Overview =
 
+See also auto-generated [http://pylibnidaqmx.googlecode.com/svn/trunk/apidocs/index.html API documentation of nidaqmx].
+
 The `nidaqmx` Python package provides 6 classes to create
 NIDAQmx tasks:
 
